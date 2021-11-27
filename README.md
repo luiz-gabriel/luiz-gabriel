@@ -1,8 +1,8 @@
 ## Olá me chamo Luiz Gabriel e sou desenvolvedor backend.
 <div align="left" margin-bottom=15px>
   <a href="https://github.com/luiz-gabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-gabriel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-gabriel&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-gabriel&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
 <div align="left" margin-top=40px>
