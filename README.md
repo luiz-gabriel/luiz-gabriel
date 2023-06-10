@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🏫 Study Analysis and development of systems at UNIAESO<br>- 📚 I'm getting deeper into js studies</p>
+<p align="left">I'm from Pernambuco - Brazil<br><br>- 🏫 Study Analysis and development of systems at UNIAESO<br>- 📚 I'm getting deeper into js studies</p>
 
 ###
 
